@@ -1,0 +1,36 @@
+body {
+background-color: chartreuse;
+background-image: url(../img/pngwing.com.png);
+background-size: 50%;
+background-repeat: repeat;
+}
+.top-nav {
+    display: flex;
+}
+.top-nav div{
+    margin: 4px 8px;
+    font-size: 32px;
+}
+.top-nav a{
+    text-decoration: underline;
+    color: black;
+}
+.top-nav a:hover{
+    color:aliceblue;
+}
+.title-cont {
+width: 100vw;
+margin: 0;
+padding: 666;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 32px;
+font-weight:600;
+}
+.title-cont p{
+ margin: 32px auto 0 auto;
+}
+.cur a{
+    font-size: 36px;
+    color: aqua
+}
